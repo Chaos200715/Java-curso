@@ -1,0 +1,15 @@
+package retorno_valor;
+
+public class trnasporte {
+	
+	int precio = 0;
+	
+	public void transporte(int prix){
+		System.out.println("Se creo un objeto transporter");
+		this.precio = prix;
+	}
+	public void precio() {
+		
+	}
+
+}

@@ -1,0 +1,29 @@
+package switch_case;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String letra = "d";
+		switch(letra) {
+		case "a":
+			System.out.println("la variable contiene a");
+		break;
+		
+		case "b" :
+			System.out.println("la variable contiene b");
+		break;
+		
+		case "c":
+			System.out.println("la variable contiene c");
+		break;	
+		
+		default:
+			System.out.println("la variable es diferente de: a,b o c");
+		break;
+			
+		}
+
+	}
+
+}

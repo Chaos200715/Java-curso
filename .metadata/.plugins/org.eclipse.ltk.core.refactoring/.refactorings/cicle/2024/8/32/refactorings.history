@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;cicle&apos;&#x0D;&#x0A;- Original project: &apos;cicle&apos;&#x0D;&#x0A;- Original element: &apos;cicle_do_while.Main.java&apos;" description="Delete element" element1="/src&lt;cicle_do_while{Main.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1723079989591" subPackages="false" version="1.0"/>
+</session>

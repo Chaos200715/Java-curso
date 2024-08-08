@@ -1,0 +1,14 @@
+package retorno_valor;
+
+public class trnasporte {
+	
+	int precio = 0;
+	
+	public void transporte(int prix){
+		this
+	}
+	public void precio() {
+		
+	}
+
+}
